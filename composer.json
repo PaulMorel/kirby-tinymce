@@ -1,0 +1,19 @@
+{
+    "name": "PaulMorel/kirby-tinymce",
+    "description": "Kirby 2 CMS plugin that adds the familiar TinyMCE full featured rich text editing JavaScript library as a field for the panel",
+    "type": "kirby-plugin",
+    "license": "LGPL-2.1-only",
+    "authors": [
+        {
+            "name": "Paul Morel",
+            "email": "paul@paulmorel.com"
+        }
+    ],
+    "require": {
+        "getkirby/composer-installer": "^1.1",
+        "pixel418/markdownify": "^2.3"
+    },
+    "extra": {
+        "installer-name": "tinymce"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "kirby-tinymce",
+    "description": "Kirby TinyMCE is the classic and familliar WYSIWYG editor TinyMCE as a panel field for the Kirby 3 CMS.",
+    "author": "Paul Morel <paul.morel@gmail.com>",
+    "version": "0.1.0",
+    "type": "kirby-plugin",
+    "license": "LGPL-2.1-only",
+    "scripts": {
+        "dev": "parcel watch src/index.js --no-source-maps -d ./",
+        "build": "parcel build src/index.js --no-source-maps --experimental-scope-hoisting -d ./"
+    },
+    "posthtml": {
+        "recognizeSelfClosing": true
+    },
+    "devDependencies": {
+        "parcel-bundler": "^1.12.3"
+    },
+    "dependencies": {
+        "@tinymce/tinymce-vue": "^2.1.0"
+    }
+}
