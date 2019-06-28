@@ -1,7 +1,7 @@
 # Kirby TinyMCE 
 
 [![GitHub issues](https://img.shields.io/github/issues/PaulMorel/kirby-tinymce.svg)](https://github.com/PaulMorel/kirby-tinymce/issues)
-[![GitHub license](https://img.shields.io/github/license/PaulMorel/kirby-tinymce.svg)](https://github.com/PaulMorel/kirby-tinymce/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/PaulMorel/kirby-tinymce.svg)](https://github.com/PaulMorel/kirby-tinymce/blob/master/LICENSE.md)
 
 Kirby TinyMCE is the classic and familliar WYSIWYG editor TinyMCE as a panel field for [Kirby 3 CMS](https://getkirby.com/).
 
